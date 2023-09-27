@@ -1,18 +1,18 @@
 ### To Get Started
 
-Clone this repo.
+Clone the repo:
 
 ```bash
 git clone https://github.com/ZiyadBoshima/next-dark-mode.git && cd next-dark-mode
 ```
 
-Install dependencies.
+Install dependencies:
 
 ```bash
 npm i
 ```
 
-Run the app.
+Run the app:
 
 ```bash
 npm run dev
