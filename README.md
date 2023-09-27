@@ -18,4 +18,4 @@ Run the app.
 npm run dev
 ```
 
-Open your browser and enter [](http://localhost:3000)
+Open your browser and enter [http://localhost:3000](http://localhost:3000)
